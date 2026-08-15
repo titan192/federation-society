@@ -1,0 +1,6 @@
+[submodule "watchtower"]
+	path = watchtower
+	url = https://github.com/drdeeks/federation-watchtower.git
+[submodule "adapters/watchtower-ack"]
+	path = adapters/watchtower-ack
+	url = https://github.com/drdeeks/watchtower-ack.git
